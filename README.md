@@ -41,3 +41,8 @@ Example: Support Vector Machines.py
 K-Nearest Neighbors is a simple yet effective classification algorithm. It classifies a data point by considering the class of its k nearest neighbors. It's a non-parametric algorithm that doesn't assume any specific distribution of data.
 
 Example: k_nearest.py
+
+# Naive Bayes
+Naive Bayes is a machine learning algorithm based on Bayes' theorem that is commonly used for classification tasks, particularly in natural language processing (NLP) and text analysis.It is deployed for tasks like spam detection, sentiment analysis, and document categorization.
+
+Example:navie bayes-spam classification.py
